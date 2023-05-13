@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+#ab
+{
+    border: 2px solid;
+    background-color: aquamarine;
+    height: 500px;
+    width: 500px;
+    box-shadow: 15px 15px 9px;
+    
+}
+
+#clr{
+    background-color: red;
+}
+#sbmt{
+    background-color: green;
+}
+#ac{
+    box-shadow: 10px 10px 6px;
+}
